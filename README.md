@@ -11,6 +11,8 @@ npm test //Run unit tests
   - Overrides create-react-app webpack configs without ejecting
 ## ts-import-plugin
   - Import components on demand
+## react-app-rewire-less
+  - Modify less variables
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).

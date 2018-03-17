@@ -19,6 +19,7 @@
     "@types/node": "^9.4.7",
     "@types/react": "^16.0.40",
     "@types/react-dom": "^16.0.4",
+    "react-app-rewire-less": "^2.1.1",
     "react-app-rewired": "^1.5.0",
     "ts-import-plugin": "^1.4.4",
     "typescript": "^2.7.2"
