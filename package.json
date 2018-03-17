@@ -2,6 +2,10 @@
   "name": "lc-antd-ts",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifecompilers/react-typescript-starter"
+},
   "dependencies": {
     "antd": "^3.3.0",
     "react": "^16.2.0",
