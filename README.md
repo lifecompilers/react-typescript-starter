@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## Getting Started
+npm install
+npm start
+npm test //Run unit tests
+
+## Ant Design
+  - A UI Design Language http://ant.design
+## react-app-rewired
+  - Overrides create-react-app webpack configs without ejecting
+## ts-import-plugin
+  - Import components on demand
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
