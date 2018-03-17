@@ -1,8 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Getting Started
+
+git clone https://github.com/lifecompilers/react-typescript-starter.git
+
 npm install
+
 npm start
+
 npm test //Run unit tests
 
 ## Ant Design
